@@ -5,7 +5,7 @@ tengo 28 años y esta es mi biografía.
 Actualmente vivo en Colombia y más pronto que tarde viajaré por placer 
 y trabajaré desde muchas partes del mundo
 
-En este momento de mi vida administro una droguería familiar y me preparo para ser un web diveloper, pero más que eso quiero dominar JavaScript.
+En este momento de mi vida administro una droguería familiar y me preparo para ser un web developer, pero más que eso quiero dominar JavaScript.
 
 Estoy probando la instrucción de Freddy para salirme del mierdero creado por no dejar comentarios al cargar una nueva versión.
 
