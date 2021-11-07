@@ -1,3 +1,7 @@
 Reescribiré mi historia y anuncio que comenzaré desde cero (0)
 
 (2nd line) Me llamo Daniel Ramírez, soy ingeniero, me gustan casi todos los deportes y paso los domingos en casa al lado de mi familia.
+
+(3rd line) Me gradué de ingeniero mecánico y me encuentro estudiando desarrollo web en la escuela de web development de platzi.
+
+(4th line) Cuarta linea de prueba
